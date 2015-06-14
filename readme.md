@@ -1,6 +1,6 @@
 # CanJS Feathers [![Build Status](https://travis-ci.org/feathersjs/canjs-feathers.png?branch=master)](https://travis-ci.org/feathersjs/canjs-feathers)
 
-> CanJS model implementation that connects to Feathers services through feathers-client
+CanJS model implementation that connects to Feathers services through [feathers-client](https://github.com/feathersjs/feathers-client)
 
 ## Getting Started
 
