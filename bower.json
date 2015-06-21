@@ -21,7 +21,7 @@
     "tests"
   ],
   "dependencies": {
-    "feathers-client": "~0.0.1"
+    "feathers-client": "~0.1.0"
   },
   "devDependencies": {
     "canjs": "~2.1.4",
